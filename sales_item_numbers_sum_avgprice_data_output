@@ -1,0 +1,4 @@
+$ ./sales_item_numbers_sum_avgprice <sales_item_numbers_sum_avgprice_data.txt> sales_item_numbers_sum_avgprice_data_output
+0-201-78345-X 18 477.8 26.5444
+0-201-78346-X 3 52 17.3333
+0-201-78347-X 1 10 10
