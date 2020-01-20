@@ -3,6 +3,7 @@
 
 void practice218();
 void practice220();
+void practice233();
 
 int main(int argc, const char * argv[])
 {
@@ -50,7 +51,7 @@ int main(int argc, const char * argv[])
     int *&r1 = pi1;
     r1 = &ival;
     *r1 = 0;
-
+    practice233();
 
     return EXIT_SUCCESS;
 }
@@ -71,3 +72,8 @@ void practice220() {
     std::cout << *pi << std::endl;
 }
 
+void practice233() {
+    int *ip2,i2,&r2 = i2;
+    int i3, *ip3 = 0;
+    int* ip4, ip24;
+}

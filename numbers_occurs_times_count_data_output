@@ -1,0 +1,6 @@
+$ ./numbers_occurs_times_count <numbers_occurs_times_count_data.txt> numbers_occurs_times_count_data_output
+Input Numbers (End with EOF, Windows is Ctrl+Z, macOS is Ctrl+D) : 
+42 occurs 5 times.
+55 occurs 2 times.
+62 occurs 1 times.
+100 occurs 3 times.
