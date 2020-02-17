@@ -1,0 +1,2 @@
+$ ./sales_data_plus <sales_data_plus_data.txt> sales_data_plus_data_output
+0-201-78345-X 5 110 22
